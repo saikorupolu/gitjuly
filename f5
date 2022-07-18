@@ -1,4 +1,8 @@
 my name is sai
 my name is sai k
-pushing five commit
+<<<<<<< HEAD
+pushing three commit
+=======
+pushing three commit
+>>>>>>> f23f4afc04000122b246f89e1b95ab79a0ba0061
 pushing 2nd cmt
